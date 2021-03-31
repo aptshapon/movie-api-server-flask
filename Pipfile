@@ -19,6 +19,7 @@ MarkupSafe = "*"
 PyJWT = "*"
 SQLAlchemy = "*"
 Werkzeug = "*"
+pandas = "*"
 
 [dev-packages]
 
