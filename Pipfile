@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask-marshmallow = "*"
+blinker = "*"
+click = "*"
+itsdangerous = "*"
+marshmallow = "*"
+six = "*"
+Flask = "*"
+Flask-RESTful = "*"
+Flask-SQLAlchemy = "*"
+Flask-JWT-Extended = "*"
+Jinja2 = "*"
+MarkupSafe = "*"
+PyJWT = "*"
+SQLAlchemy = "*"
+Werkzeug = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
